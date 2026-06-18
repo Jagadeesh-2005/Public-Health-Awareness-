@@ -229,12 +229,14 @@ This project is intended for educational and community service purposes.
 
 
 **OUTPUT**
-<img width="750" height="1599" alt="WhatsApp Image 2026-06-18 at 8 43 22 PM (1)" src="https://github.com/user-attachments/assets/47473825-0c67-4d21-98fa-697735f432df" />
-<img width="755" height="1600" alt="WhatsApp Image 2026-06-18 at 8 43 22 PM (2)" src="https://github.com/user-attachments/assets/d995295c-f5b0-4a4a-acc6-e7923c2b657e" />
-<img width="745" height="1599" alt="WhatsApp Image 2026-06-18 at 8 43 22 PM (3)" src="https://github.com/user-attachments/assets/81e09a8b-2f4e-4872-aa10-092f88c019cd" />
-<img width="751" height="1600" alt="WhatsApp Image 2026-06-18 at 8 43 22 PM" src="https://github.com/user-attachments/assets/7ac277b4-9a41-4ce4-a1fe-ada025723a1c" />
-<img width="746" height="1600" alt="WhatsApp Image 2026-06-18 at 8 43 23 PM (1)" src="https://github.com/user-attachments/assets/dbe24a18-6639-4545-bb35-ffdbf8b61573" />
-<img width="756" height="1600" alt="WhatsApp Image 2026-06-18 at 8 43 23 PM" src="https://github.com/user-attachments/assets/29a78cf4-dba9-4382-9078-ceef61559a27" />
+
+
+<img width="500" height="700" alt="WhatsApp Image 2026-06-18 at 8 43 22 PM (1)" src="https://github.com/user-attachments/assets/47473825-0c67-4d21-98fa-697735f432df" />
+<img width="500" height="700" alt="WhatsApp Image 2026-06-18 at 8 43 22 PM (2)" src="https://github.com/user-attachments/assets/d995295c-f5b0-4a4a-acc6-e7923c2b657e" />
+<img width="500" height="700" alt="WhatsApp Image 2026-06-18 at 8 43 22 PM (3)" src="https://github.com/user-attachments/assets/81e09a8b-2f4e-4872-aa10-092f88c019cd" />
+<img width="500" height="700" alt="WhatsApp Image 2026-06-18 at 8 43 22 PM" src="https://github.com/user-attachments/assets/7ac277b4-9a41-4ce4-a1fe-ada025723a1c" />
+<img width="500" height="700" alt="WhatsApp Image 2026-06-18 at 8 43 23 PM (1)" src="https://github.com/user-attachments/assets/dbe24a18-6639-4545-bb35-ffdbf8b61573" />
+<img width="500" height="700" alt="WhatsApp Image 2026-06-18 at 8 43 23 PM" src="https://github.com/user-attachments/assets/29a78cf4-dba9-4382-9078-ceef61559a27" />
 
   
 
