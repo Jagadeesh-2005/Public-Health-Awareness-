@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
-import 'pages/home_page.dart';
+import 'dart:convert';
+import 'package:shared_preferences/shared_preferences.dart';
+import 'package:video_player/video_player.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 void main() {
   runApp(const HealthSurveyApp());
@@ -11,7 +14,6 @@ class HealthSurveyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      debugShowCheckedModeBanner: false,
       title: 'Takkellapadu Health Survey',
       theme: ThemeData(primarySwatch: Colors.green),
       home: const HomePage(),
